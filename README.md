@@ -9,7 +9,7 @@ But they might help you. And if not then they are just here for me to look back 
 
 ## Problemsets
 - Problemset 1: Completed
-- Problemset 2: Not done
+- Problemset 2: In Progress
 - Problemset 3: Not done
 - Problemset 4: Not done
 - Problemset 5: Not done
